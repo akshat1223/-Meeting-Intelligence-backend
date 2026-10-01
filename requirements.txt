@@ -1,10 +1,15 @@
 fastapi
 uvicorn[standard]
 python-multipart
+
 motor
 pymongo
-pydentic
-pydentic-settings
+
+pydantic
+pydantic-settings
+
 python-dotenv
 httpx
 aiofiles
+
+groq
